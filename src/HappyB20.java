@@ -1,4 +1,5 @@
-public class HappyB20 {
+public class
+  HappyB20 {
     public static void main(String[] args) {
         System.out.println("B20 is happy batch");
 
@@ -11,7 +12,8 @@ public class HappyB20 {
         git commit -m"add HappyB20.java"     //take snapshot(save in git history)
                     // update instead of add if we updated the previous code
                    //-m"this is newest commit"
-                   //(write something meaningful message)
+                   //(write something meaningful message,i tried to add everything, and it works. )
+              the main thing in git commit is "git commit -m"  "
 
          */
         System.out.println("we moved yesterday, it was Eid day, but an extremely tired day ");
